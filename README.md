@@ -8,7 +8,7 @@
 
 <p align="left">
 💻 Desenvolvedor de Software, atualmente atuo com as linguagen  <strong>Java (Spring Boot)</strong><br>
-🗄️ Experiência em <strong>PL/SQL</strong> e integração com bancos <strong>PostgreSQL e MySQL</strong><br> e <strong>Python (FastAPI/Flask)</strong> e
+🗄️ Experiência em <strong>PL/SQL</strong> e integração com bancos <strong>PostgreSQL e MySQL</strong><br> e <strong>Python (FastAPI/Flask)</strong>
 ☁️ Estudando e aplicando soluções em <strong>AWS</strong> e containers com <strong>Docker</strong><br>
 📚 Apaixonado por aprender e explorar novas stacks
 </p>
